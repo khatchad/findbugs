@@ -97,3 +97,4 @@ Export-Package: edu.umd.cs.findbugs,
  org.objectweb.asm.util,
  org.objectweb.asm.xml
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: findbugs
